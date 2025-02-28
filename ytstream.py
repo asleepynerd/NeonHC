@@ -11,8 +11,8 @@ ImageFile.LOAD_TRUNCATED_IMAGES = True
 
 VIDEO_ID = "dQw4w9WgXcQ" 
 
-COBALT_API = "http://34.90.197.226:9000/"
-GIF_API = "http://34.90.197.226:3000/convert/video/to/gif"
+COBALT_API = "http://35.204.199.3:9000/"
+GIF_API = "http://35.204.199.3:3000/convert/video/to/gif"
 
 def get_gif():
     """Get video and convert to GIF"""
